@@ -1,0 +1,14 @@
+#calendarImg {
+    width: 800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35px;
+    margin-bottom: 50px;
+}
+
+.contact-text {
+    font-size: 14px;
+    font-weight: 700;
+    text-align: center;
+}

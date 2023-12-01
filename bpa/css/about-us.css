@@ -1,0 +1,30 @@
+.basic-text {
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 2%;
+    text-indent: 4%;
+    font-size: 18px;
+}
+
+.circleImages {
+    display: block;
+    text-align: center;
+}
+
+.outerCircleImg {
+    width: 10%;
+    border-radius: 360px;
+}
+
+.innerCircleImg {
+    width: 12%;
+    border-radius: 360px;
+}
+
+.infoTextBPDiv {
+    text-align: center;
+}
+
+.infoTextBP {
+    font-size: 12px;
+}
